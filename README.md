@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaithLebepe
 - 👀 I’m interested in Soft Development
-- 🌱 I’m currently learning C++ and C and improving my HTML and CSS skills
+- 🌱 I’m currently learning C++ and C# and improving my HTML and CSS skills
 - 💞️ I’m a student studying BSc IT
 - 📫 How to reach me faithlebepe@gmail.com
 

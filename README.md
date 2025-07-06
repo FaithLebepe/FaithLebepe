@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-Hi there! I'm Faith, a passionate and curious second-year BSc IT student at NWU. I'm fascinated by the world of software development and artificial intelligence. From the moment I discovered GitHub, I knew I wanted to build things that make a real difference. I’m especially interested in creating helpful digital tools—whether it’s for individuals, businesses, or students like myself.
+Hi there! I'm Faith, a passionate and curious final-year BSc IT student at NWU. I'm fascinated by the world of software development and artificial intelligence. From the moment I discovered GitHub, I knew I wanted to build things that make a real difference. I’m especially interested in creating helpful digital tools—whether it’s for individuals, businesses, or students like myself.
 
 I love solving complex problems, building applications from scratch, and learning how to make technology more human-centered. Whether I'm coding web apps with Angular and Firebase or tackling Java and SQL assignments, I'm always pushing myself to grow.
 

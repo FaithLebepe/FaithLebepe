@@ -52,10 +52,15 @@
 ### 🧭 Current Goals
 
 💼 Land a software development internship or entry-level role
+
 🧑🏽‍💻 Build and maintain a strong developer portfolio 
+
 🏊🏽‍♀️ Master swimming & build a healthy routine
+
 🌐 Contribute to open-source or community-driven projects
+
 💻 Master Angular & TypeScript through real-world projects
+
 🤖 Learn the fundamentals of AI and machine learning
 
 ---

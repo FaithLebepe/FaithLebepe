@@ -38,13 +38,13 @@
 
 ### 🌟 Projects & Interests
 
-- **🍱 Meal Prep Website**  
+**🍱 Meal Prep Website**  
   Modern Angular + Firebase food ordering platform with meal filters, fitness goals, videos, and cart functionality.
 
  **🐾 Animal Collection App**  
   A simple yet beautiful app where users can browse and manage different animal entries. Built with Angular and Firebase, featuring image uploads and Firestore storage integration.
 
-- **📷 Capacitor Barcode Scanner**  
+**📷 Capacitor Barcode Scanner**  
   Integrated a live QR code and barcode scanner in an Ionic app—an exciting and technical achievement!
 
 ---

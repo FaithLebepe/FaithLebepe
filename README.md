@@ -32,7 +32,7 @@
 </p>
 
 🧰 **Database:** Firestore, MySQL  
-🛠️ **Tools:** GitHub, Trello, VS Code, Android Studio
+🛠️ **Tools:** GitHub, Trello, Figma, VS Code, Android Studio
 
 ---
 
@@ -41,19 +41,22 @@
 - **🍱 Meal Prep Website**  
   Modern Angular + Firebase food ordering platform with meal filters, fitness goals, videos, and cart functionality.
 
-- **🤖 Personal Assistant App (WIP)**  
-  A planner with AI-based goal tracking, to-do generation, and day/week/month organization.
+ **🐾 Animal Collection App**  
+  A simple yet beautiful app where users can browse and manage different animal entries. Built with Angular and Firebase, featuring image uploads and Firestore storage integration.
 
 - **📷 Capacitor Barcode Scanner**  
-  Integrated a live barcode scanner in an Ionic app—an exciting and technical achievement!
+  Integrated a live QR code and barcode scanner in an Ionic app—an exciting and technical achievement!
 
 ---
 
 ### 🧭 Current Goals
 
-- 💻 Get confident in Angular & TypeScript  
-- 🧠 Dive deeper into machine learning  
-- 🏊🏽‍♀️ Master swimming & build a healthy routine  
+💼 Land a software development internship or entry-level role
+🧑🏽‍💻 Build and maintain a strong developer portfolio 
+🏊🏽‍♀️ Master swimming & build a healthy routine
+🌐 Contribute to open-source or community-driven projects
+💻 Master Angular & TypeScript through real-world projects
+🤖 Learn the fundamentals of AI and machine learning
 
 ---
 
@@ -74,5 +77,5 @@
 
 ---
 
-> “Engineering lets me impact the whole world at once—rather than saving one life at a time.”
+> “Be patient with yourself, with persistence and determination, even the impossible becomes achievable.”
 

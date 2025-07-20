@@ -1,64 +1,76 @@
-# 👩🏽‍💻 Faith Lebepe
+<!-- Animated waving hand -->
+<h1 align="center">Hi there! 👋🏽 I'm Faith Lebepe</h1>
 
-**Final Year BSc IT Student | Software Developer | Future AI Engineer**  
-📍 South Africa | 🌐 faithlebepe@gmail.com  
+<p align="center">
+  <em>Final Year BSc IT Student | Software Developer | Future AI Engineer</em><br/>
+  📍 South Africa • 📧 <a href="mailto:faithlebepe@gmail.com">faithlebepe@gmail.com</a> • 🌐 <a href="https://profile-of-faith.web.app">Portfolio</a>
+</p>
 
 ---
 
 ### 💡 About Me
 
-Hi there! I'm Faith, a passionate and curious final-year BSc IT student at NWU. I'm fascinated by the world of software development and artificial intelligence. From the moment I discovered GitHub, I knew I wanted to build things that make a real difference. I’m especially interested in creating helpful digital tools—whether it’s for individuals, businesses, or students like myself.
-
-I love solving complex problems, building applications from scratch, and learning how to make technology more human-centered. Whether I'm coding web apps with Angular and Firebase or tackling Java and SQL assignments, I'm always pushing myself to grow.
+✨ Passionate and curious final-year BSc IT student at NWU  
+🧠 Fascinated by the world of software development and artificial intelligence  
+🛠️ Love solving complex problems and building tech that’s human-centered  
+📦 Currently exploring Angular, Firebase, and custom productivity tools
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 Tech Stack & Tools
 
-- **Languages:** Java, C++, C, C#, SQL, HTML, CSS, TypeScript
-- **Frameworks & Libraries:** Angular, Ionic, Firebase
-- **Database:** Firestore, MySQL
-- **Tools:** GitHub, Trello, VS Code, Android Studio
+<!-- Skill badges with subtle animation using shields.io -->
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"/>
+</p>
+
+🧰 **Database:** Firestore, MySQL  
+🛠️ **Tools:** GitHub, Trello, VS Code, Android Studio
 
 ---
 
 ### 🌟 Projects & Interests
 
-- **Meal Prep Website**  
-  A modern food ordering site with Angular + Firebase. Includes authentication, Firestore integration, and dynamic meal selection with fitness goals filters, videos, and responsive design.
+- **🍱 Meal Prep Website**  
+  Modern Angular + Firebase food ordering platform with meal filters, fitness goals, videos, and cart functionality.
 
-- **Personal Assistant App (WIP)**  
-  Building a custom productivity tool with goal tracking, schedule planning, and an AI chatbot to help users plan their day, week, and month more effectively.
+- **🤖 Personal Assistant App (WIP)**  
+  A planner with AI-based goal tracking, to-do generation, and day/week/month organization.
 
-- **Capacitor Barcode Scanner**  
-  Integrated a barcode scanner into an Ionic app—one of the most exciting technical challenges I’ve tackled so far!
-
----
-
-### 🧭 My Goals
-
-- 💻 Become confident in Angular & TypeScript
-- 🤖 Dive deeper into AI & machine learning
-- 🏊🏽‍♀️ Learn to swim on my own and maintain a healthy lifestyle
-- 🧭 Help others find their true calling, just like I found mine
+- **📷 Capacitor Barcode Scanner**  
+  Integrated a live barcode scanner in an Ionic app—an exciting and technical achievement!
 
 ---
 
-### 🎨 Outside of Code
+### 🧭 Current Goals
 
-When I'm not coding or studying, you’ll find me:
-- Drawing and painting 🖌️
-- Swimming 🏊🏽‍♀️
-- Baking 🍰
-- Dreaming up ideas for apps that solve real-world problems
+- 💻 Get confident in Angular & TypeScript  
+- 🧠 Dive deeper into machine learning  
+- 🏊🏽‍♀️ Master swimming & build a healthy routine  
 
 ---
 
-### 🤝 Let’s Connect
+### 📊 GitHub Stats
 
-📬 **Email:** faithlebepe@gmail.com  
-🌐 **Portfolio (Coming soon!)*  
-💬 Always happy to connect, collaborate, and learn together.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faithlebepe&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithlebepe&layout=compact&theme=radical&hide_border=true" height="165">
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+📬 [faithlebepe@gmail.com](mailto:faithlebepe@gmail.com)  
+🌐 [https://profile-of-faith.web.app](https://profile-of-faith.web.app)  
+💬 Always happy to collaborate, learn, and build meaningful tech!
 
 ---
 
